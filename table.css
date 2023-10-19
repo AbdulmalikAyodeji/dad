@@ -1,0 +1,60 @@
+div#mak{
+    background-color: blue;
+    background-image:url(img/bionic_commando_3-1920x1200.jpg);
+}
+.god{
+    background-color: gold;
+    
+}
+#fir{
+    background-color: brown;
+}
+#vir{
+    background-color: red;
+}
+.did{
+    background-color: blueviolet;
+}
+.fawas{
+    color: chocolate;
+    font-size: 40px;
+}
+.colo{
+    color: crimson;
+    font-size: 40px;
+
+}
+.bad{
+    color:blue;
+    font-size: 40px;
+}
+.malik{
+    color: gold;
+    font-size: 40px;
+
+}
+.fio{
+    color:red ;
+    background-image: url(img/bionic_commando_3-1920x1200.jpg);
+    
+}
+input{
+    background-color: grey;
+}
+.dapo{
+    width: 200%;
+}
+.kam{
+    width: 200%;
+}
+#ra{
+    width: 200%;
+}
+.yoq{
+    height: 100px;
+}
+
+#ta{
+    height: 100px;
+}
+
